@@ -211,7 +211,7 @@
 - [Cookbook for advanced deep learning](https://github.com/togethercomputer/together-cookbook)
 
 
-## Understanding of How Processing works(Better to learn for optimisation)
+## Understanding of How processing works (Better to learn for optimisation)
 
 - [GPU Programming](https://www.youtube.com/playlist?list=PL5XwKDZZlwaY7t0M5OLprpkJUIrF8Lc9j)
 
